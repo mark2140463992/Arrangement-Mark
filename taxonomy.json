@@ -1,0 +1,16 @@
+{
+  "Pop": {
+    "Harmony": ["ChordProgressions", "ModalInterchange", "BorrowedChords"],
+    "Rhythm": ["DrumPatterns", "BassGrooves", "Clave_2Step"],
+    "Texture": ["Guitar", "Synth", "Strings"],
+    "Arrangement": ["Verse_Section", "Chorus_Section", "Bridge"]
+  },
+  "J-Pop": {
+    "Harmony": [],
+    "Rhythm": [],
+    "Texture": [],
+    "Arrangement": []
+  },
+  "Mixing": ["EQ", "Compression", "Reverb", "StereoImaging", "MasterBus"],
+  "Mastering": ["Limiting", "Loudness", "ReferenceTracks", "ExportSettings"]
+}
